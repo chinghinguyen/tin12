@@ -5,7 +5,6 @@ function login()
   if (a == "chinghi" && b == "1234556789")
   {
     window.open("home.html")
-    document.getElementById(complier).style.display="block"
   }
   else document.write("Không hợp lệ")
 }
