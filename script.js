@@ -4,7 +4,7 @@ function login()
   let b = password.value
   if (a == "ncn" && b == "369")
   {
-    window.open("home.html")
+    window.open("home2.html")
   }
   else document.write("Không hợp lệ")
 }
